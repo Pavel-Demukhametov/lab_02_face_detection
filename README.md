@@ -27,5 +27,5 @@
 
 ## Maintainers
 
-- Developed by @Pavel-Demukhametov
+- Developed by [Pavel Demukhametov](https://github.com/Pavel-Demukhametov)
  
