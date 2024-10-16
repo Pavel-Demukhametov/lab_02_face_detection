@@ -4,7 +4,8 @@
     1. [Стэк](#стэк)
     2. [Заметки](#Заметки)
 2. [Полезные ссылки](#полезные-ссылки)
-3. [Maintainers](#maintainers)
+3. [Запуск]
+4. [Maintainers](#maintainers)
 
 ## О сервисе
 
@@ -23,6 +24,9 @@
 ## Полезные ссылки
 
 - [DockerHub](https://hub.docker.com/repository/docker/puritanin/face-detection-app/general)
+
+## Запуск
+`docker run --rm puritanin/face-detection-app`
 
 
 ## Maintainers
