@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread('755163518648594.jpg')
+img = cv2.imread('photo.jpg')
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
